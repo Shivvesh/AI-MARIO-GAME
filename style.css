@@ -7,6 +7,8 @@
 .heading h3
 {
     display: inline;
+    text-align: center;
+    font-family: fantasy;
 }
 
 .heading button
@@ -25,4 +27,43 @@
 {
     font-size: 22px;
 }
+
+h4
+{
+    background-color: black;
+    line-height: 2;
+    margin: 0px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 26px;
+    color: darkcyan;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+h5
+{
+    color: yellow;
+    font-size: 25px;
+}
+
+h6
+{
+    color: white;
+    font-size: 38px;
+    font-family: cursive;
+}
+
+video
+{
+	background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+
 
